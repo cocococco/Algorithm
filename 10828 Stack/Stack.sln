@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9012 괄호", "9012 괄호\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1874 스택 수열", "1874 스택 수열\1874 스택 수열.vcxproj", "{ECD90245-0435-4116-B520-520872F385FA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1406 에디터", "1406 에디터\1406 에디터.vcxproj", "{297DD54C-7325-4C04-B50F-1AF7F2B49B2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{ECD90245-0435-4116-B520-520872F385FA}.Release|x64.Build.0 = Release|x64
 		{ECD90245-0435-4116-B520-520872F385FA}.Release|x86.ActiveCfg = Release|Win32
 		{ECD90245-0435-4116-B520-520872F385FA}.Release|x86.Build.0 = Release|Win32
+		{297DD54C-7325-4C04-B50F-1AF7F2B49B2B}.Debug|x64.ActiveCfg = Debug|x64
+		{297DD54C-7325-4C04-B50F-1AF7F2B49B2B}.Debug|x64.Build.0 = Debug|x64
+		{297DD54C-7325-4C04-B50F-1AF7F2B49B2B}.Debug|x86.ActiveCfg = Debug|Win32
+		{297DD54C-7325-4C04-B50F-1AF7F2B49B2B}.Debug|x86.Build.0 = Debug|Win32
+		{297DD54C-7325-4C04-B50F-1AF7F2B49B2B}.Release|x64.ActiveCfg = Release|x64
+		{297DD54C-7325-4C04-B50F-1AF7F2B49B2B}.Release|x64.Build.0 = Release|x64
+		{297DD54C-7325-4C04-B50F-1AF7F2B49B2B}.Release|x86.ActiveCfg = Release|Win32
+		{297DD54C-7325-4C04-B50F-1AF7F2B49B2B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

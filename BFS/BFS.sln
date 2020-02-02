@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13913 숨바꼭질4", "1391
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14226 이모티콘", "14226 이모티콘\14226 이모티콘.vcxproj", "{E7F71545-48F5-4299-822D-8FE4932D0D8C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16948 데스나이트", "16948 데스나이트\16948 데스나이트.vcxproj", "{E1C7EAF4-DA28-492D-B68F-7700800E36C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{E7F71545-48F5-4299-822D-8FE4932D0D8C}.Release|x64.Build.0 = Release|x64
 		{E7F71545-48F5-4299-822D-8FE4932D0D8C}.Release|x86.ActiveCfg = Release|Win32
 		{E7F71545-48F5-4299-822D-8FE4932D0D8C}.Release|x86.Build.0 = Release|Win32
+		{E1C7EAF4-DA28-492D-B68F-7700800E36C1}.Debug|x64.ActiveCfg = Debug|x64
+		{E1C7EAF4-DA28-492D-B68F-7700800E36C1}.Debug|x64.Build.0 = Debug|x64
+		{E1C7EAF4-DA28-492D-B68F-7700800E36C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1C7EAF4-DA28-492D-B68F-7700800E36C1}.Debug|x86.Build.0 = Debug|Win32
+		{E1C7EAF4-DA28-492D-B68F-7700800E36C1}.Release|x64.ActiveCfg = Release|x64
+		{E1C7EAF4-DA28-492D-B68F-7700800E36C1}.Release|x64.Build.0 = Release|x64
+		{E1C7EAF4-DA28-492D-B68F-7700800E36C1}.Release|x86.ActiveCfg = Release|Win32
+		{E1C7EAF4-DA28-492D-B68F-7700800E36C1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

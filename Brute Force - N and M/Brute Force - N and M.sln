@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Brute Force - N and M", "Brute Force - N and M\Brute Force - N and M.vcxproj", "{B4AA2072-927C-4AC0-9987-994144D6DB05}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15649 N과 M 1", "Brute Force - N and M\Brute Force - N and M.vcxproj", "{B4AA2072-927C-4AC0-9987-994144D6DB05}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15650 N과 M 2", "15650 N과 M 2\15650 N과 M 2.vcxproj", "{6321D9C7-B233-4D6C-82CB-E1CACADA70F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{B4AA2072-927C-4AC0-9987-994144D6DB05}.Release|x64.Build.0 = Release|x64
 		{B4AA2072-927C-4AC0-9987-994144D6DB05}.Release|x86.ActiveCfg = Release|Win32
 		{B4AA2072-927C-4AC0-9987-994144D6DB05}.Release|x86.Build.0 = Release|Win32
+		{6321D9C7-B233-4D6C-82CB-E1CACADA70F6}.Debug|x64.ActiveCfg = Debug|x64
+		{6321D9C7-B233-4D6C-82CB-E1CACADA70F6}.Debug|x64.Build.0 = Debug|x64
+		{6321D9C7-B233-4D6C-82CB-E1CACADA70F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{6321D9C7-B233-4D6C-82CB-E1CACADA70F6}.Debug|x86.Build.0 = Debug|Win32
+		{6321D9C7-B233-4D6C-82CB-E1CACADA70F6}.Release|x64.ActiveCfg = Release|x64
+		{6321D9C7-B233-4D6C-82CB-E1CACADA70F6}.Release|x64.Build.0 = Release|x64
+		{6321D9C7-B233-4D6C-82CB-E1CACADA70F6}.Release|x86.ActiveCfg = Release|Win32
+		{6321D9C7-B233-4D6C-82CB-E1CACADA70F6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

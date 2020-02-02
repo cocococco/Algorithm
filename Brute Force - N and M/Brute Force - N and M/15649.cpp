@@ -1,3 +1,5 @@
+/* ³Ê¹« ¾î·Æ´Ù... */
+
 #include <iostream>
 
 using namespace std;

@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BFS", "BFS\BFS.vcxproj", "{40400F0D-8BC6-421E-BC2F-6650CE7DC7EB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1697 숨바꼭질", "BFS\BFS.vcxproj", "{40400F0D-8BC6-421E-BC2F-6650CE7DC7EB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13913 숨바꼭질4", "13913 숨바꼭질4\13913 숨바꼭질4.vcxproj", "{E04C7562-6E64-497E-B9B0-F28E22D505D5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14226 이모티콘", "14226 이모티콘\14226 이모티콘.vcxproj", "{E7F71545-48F5-4299-822D-8FE4932D0D8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,22 @@ Global
 		{40400F0D-8BC6-421E-BC2F-6650CE7DC7EB}.Release|x64.Build.0 = Release|x64
 		{40400F0D-8BC6-421E-BC2F-6650CE7DC7EB}.Release|x86.ActiveCfg = Release|Win32
 		{40400F0D-8BC6-421E-BC2F-6650CE7DC7EB}.Release|x86.Build.0 = Release|Win32
+		{E04C7562-6E64-497E-B9B0-F28E22D505D5}.Debug|x64.ActiveCfg = Debug|x64
+		{E04C7562-6E64-497E-B9B0-F28E22D505D5}.Debug|x64.Build.0 = Debug|x64
+		{E04C7562-6E64-497E-B9B0-F28E22D505D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{E04C7562-6E64-497E-B9B0-F28E22D505D5}.Debug|x86.Build.0 = Debug|Win32
+		{E04C7562-6E64-497E-B9B0-F28E22D505D5}.Release|x64.ActiveCfg = Release|x64
+		{E04C7562-6E64-497E-B9B0-F28E22D505D5}.Release|x64.Build.0 = Release|x64
+		{E04C7562-6E64-497E-B9B0-F28E22D505D5}.Release|x86.ActiveCfg = Release|Win32
+		{E04C7562-6E64-497E-B9B0-F28E22D505D5}.Release|x86.Build.0 = Release|Win32
+		{E7F71545-48F5-4299-822D-8FE4932D0D8C}.Debug|x64.ActiveCfg = Debug|x64
+		{E7F71545-48F5-4299-822D-8FE4932D0D8C}.Debug|x64.Build.0 = Debug|x64
+		{E7F71545-48F5-4299-822D-8FE4932D0D8C}.Debug|x86.ActiveCfg = Debug|Win32
+		{E7F71545-48F5-4299-822D-8FE4932D0D8C}.Debug|x86.Build.0 = Debug|Win32
+		{E7F71545-48F5-4299-822D-8FE4932D0D8C}.Release|x64.ActiveCfg = Release|x64
+		{E7F71545-48F5-4299-822D-8FE4932D0D8C}.Release|x64.Build.0 = Release|x64
+		{E7F71545-48F5-4299-822D-8FE4932D0D8C}.Release|x86.ActiveCfg = Release|Win32
+		{E7F71545-48F5-4299-822D-8FE4932D0D8C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

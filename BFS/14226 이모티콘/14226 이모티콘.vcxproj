@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{E04C7562-6E64-497E-B9B0-F28E22D505D5}</ProjectGuid>
+    <ProjectGuid>{E7F71545-48F5-4299-822D-8FE4932D0D8C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My13913숨바꼭질4</RootNamespace>
+    <RootNamespace>My14226이모티콘</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -143,7 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="13913.cpp" />
+    <ClCompile Include="14226.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

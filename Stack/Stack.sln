@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1874 스택 수열", "1874 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1406 에디터", "1406 에디터\1406 에디터.vcxproj", "{297DD54C-7325-4C04-B50F-1AF7F2B49B2B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17413 단어 뒤집기 2", "17413 단어 뒤집기2\17413 단어 뒤집기2.vcxproj", "{FF8F839F-F9FB-4A6E-B4F7-734BE78D6EFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{297DD54C-7325-4C04-B50F-1AF7F2B49B2B}.Release|x64.Build.0 = Release|x64
 		{297DD54C-7325-4C04-B50F-1AF7F2B49B2B}.Release|x86.ActiveCfg = Release|Win32
 		{297DD54C-7325-4C04-B50F-1AF7F2B49B2B}.Release|x86.Build.0 = Release|Win32
+		{FF8F839F-F9FB-4A6E-B4F7-734BE78D6EFC}.Debug|x64.ActiveCfg = Debug|x64
+		{FF8F839F-F9FB-4A6E-B4F7-734BE78D6EFC}.Debug|x64.Build.0 = Debug|x64
+		{FF8F839F-F9FB-4A6E-B4F7-734BE78D6EFC}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF8F839F-F9FB-4A6E-B4F7-734BE78D6EFC}.Debug|x86.Build.0 = Debug|Win32
+		{FF8F839F-F9FB-4A6E-B4F7-734BE78D6EFC}.Release|x64.ActiveCfg = Release|x64
+		{FF8F839F-F9FB-4A6E-B4F7-734BE78D6EFC}.Release|x64.Build.0 = Release|x64
+		{FF8F839F-F9FB-4A6E-B4F7-734BE78D6EFC}.Release|x86.ActiveCfg = Release|Win32
+		{FF8F839F-F9FB-4A6E-B4F7-734BE78D6EFC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1406 에디터", "1406 에�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17413 단어 뒤집기 2", "17413 단어 뒤집기2\17413 단어 뒤집기2.vcxproj", "{FF8F839F-F9FB-4A6E-B4F7-734BE78D6EFC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10799 쇠막대기", "10799 쇠막대기\10799 쇠막대기.vcxproj", "{C78B6E61-BCB1-4B87-9A0E-7ED7A77E7968}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{FF8F839F-F9FB-4A6E-B4F7-734BE78D6EFC}.Release|x64.Build.0 = Release|x64
 		{FF8F839F-F9FB-4A6E-B4F7-734BE78D6EFC}.Release|x86.ActiveCfg = Release|Win32
 		{FF8F839F-F9FB-4A6E-B4F7-734BE78D6EFC}.Release|x86.Build.0 = Release|Win32
+		{C78B6E61-BCB1-4B87-9A0E-7ED7A77E7968}.Debug|x64.ActiveCfg = Debug|x64
+		{C78B6E61-BCB1-4B87-9A0E-7ED7A77E7968}.Debug|x64.Build.0 = Debug|x64
+		{C78B6E61-BCB1-4B87-9A0E-7ED7A77E7968}.Debug|x86.ActiveCfg = Debug|Win32
+		{C78B6E61-BCB1-4B87-9A0E-7ED7A77E7968}.Debug|x86.Build.0 = Debug|Win32
+		{C78B6E61-BCB1-4B87-9A0E-7ED7A77E7968}.Release|x64.ActiveCfg = Release|x64
+		{C78B6E61-BCB1-4B87-9A0E-7ED7A77E7968}.Release|x64.Build.0 = Release|x64
+		{C78B6E61-BCB1-4B87-9A0E-7ED7A77E7968}.Release|x86.ActiveCfg = Release|Win32
+		{C78B6E61-BCB1-4B87-9A0E-7ED7A77E7968}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

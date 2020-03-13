@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17087 숨바꼭질 6", "170
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10872 팩토리얼", "10872 팩토리얼\10872 팩토리얼.vcxproj", "{E28C92EE-6F61-47FB-AC11-F6C0292E4464}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1676 팩토리얼 0의 개수", "1676 팩토리얼 0의 개수\1676 팩토리얼 0의 개수.vcxproj", "{F2DFD6DE-4D36-4AD7-BBBF-E99ADA4E45AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{E28C92EE-6F61-47FB-AC11-F6C0292E4464}.Release|x64.Build.0 = Release|x64
 		{E28C92EE-6F61-47FB-AC11-F6C0292E4464}.Release|x86.ActiveCfg = Release|Win32
 		{E28C92EE-6F61-47FB-AC11-F6C0292E4464}.Release|x86.Build.0 = Release|Win32
+		{F2DFD6DE-4D36-4AD7-BBBF-E99ADA4E45AB}.Debug|x64.ActiveCfg = Debug|x64
+		{F2DFD6DE-4D36-4AD7-BBBF-E99ADA4E45AB}.Debug|x64.Build.0 = Debug|x64
+		{F2DFD6DE-4D36-4AD7-BBBF-E99ADA4E45AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2DFD6DE-4D36-4AD7-BBBF-E99ADA4E45AB}.Debug|x86.Build.0 = Debug|Win32
+		{F2DFD6DE-4D36-4AD7-BBBF-E99ADA4E45AB}.Release|x64.ActiveCfg = Release|x64
+		{F2DFD6DE-4D36-4AD7-BBBF-E99ADA4E45AB}.Release|x64.Build.0 = Release|x64
+		{F2DFD6DE-4D36-4AD7-BBBF-E99ADA4E45AB}.Release|x86.ActiveCfg = Release|Win32
+		{F2DFD6DE-4D36-4AD7-BBBF-E99ADA4E45AB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

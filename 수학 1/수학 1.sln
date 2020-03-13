@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9613 GCD 합", "9613 GCD �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17087 숨바꼭질 6", "17087 숨바꼭질 6\17087 숨바꼭질 6.vcxproj", "{E633CE5E-8D13-4AFD-8FA9-45699396C3D6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10872 팩토리얼", "10872 팩토리얼\10872 팩토리얼.vcxproj", "{E28C92EE-6F61-47FB-AC11-F6C0292E4464}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{E633CE5E-8D13-4AFD-8FA9-45699396C3D6}.Release|x64.Build.0 = Release|x64
 		{E633CE5E-8D13-4AFD-8FA9-45699396C3D6}.Release|x86.ActiveCfg = Release|Win32
 		{E633CE5E-8D13-4AFD-8FA9-45699396C3D6}.Release|x86.Build.0 = Release|Win32
+		{E28C92EE-6F61-47FB-AC11-F6C0292E4464}.Debug|x64.ActiveCfg = Debug|x64
+		{E28C92EE-6F61-47FB-AC11-F6C0292E4464}.Debug|x64.Build.0 = Debug|x64
+		{E28C92EE-6F61-47FB-AC11-F6C0292E4464}.Debug|x86.ActiveCfg = Debug|Win32
+		{E28C92EE-6F61-47FB-AC11-F6C0292E4464}.Debug|x86.Build.0 = Debug|Win32
+		{E28C92EE-6F61-47FB-AC11-F6C0292E4464}.Release|x64.ActiveCfg = Release|x64
+		{E28C92EE-6F61-47FB-AC11-F6C0292E4464}.Release|x64.Build.0 = Release|x64
+		{E28C92EE-6F61-47FB-AC11-F6C0292E4464}.Release|x86.ActiveCfg = Release|Win32
+		{E28C92EE-6F61-47FB-AC11-F6C0292E4464}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

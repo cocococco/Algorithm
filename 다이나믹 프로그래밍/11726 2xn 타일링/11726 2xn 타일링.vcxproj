@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{9C17F316-2B8E-4181-BF75-FB1CB8D5233B}</ProjectGuid>
+    <ProjectGuid>{972D0D4B-37F1-4DE3-AC97-9340349D46C8}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>다이나믹프로그래밍</RootNamespace>
+    <RootNamespace>My117262xn타일링</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
-    <ProjectName>1463 1로 만들기</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -144,8 +143,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1463 bottom-up baekjoon.cpp" />
-    <ClCompile Include="1463 top-down.cpp" />
+    <ClCompile Include="11726 bottom-up.cpp" />
+    <ClCompile Include="11726 top-down.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

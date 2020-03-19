@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "다이나믹 프로그래밍", "다이나믹 프로그래밍\다이나믹 프로그래밍.vcxproj", "{9C17F316-2B8E-4181-BF75-FB1CB8D5233B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1463 1로 만들기", "다이나믹 프로그래밍\다이나믹 프로그래밍.vcxproj", "{9C17F316-2B8E-4181-BF75-FB1CB8D5233B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11726 2xn 타일링", "11726 2xn 타일링\11726 2xn 타일링.vcxproj", "{972D0D4B-37F1-4DE3-AC97-9340349D46C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{9C17F316-2B8E-4181-BF75-FB1CB8D5233B}.Release|x64.Build.0 = Release|x64
 		{9C17F316-2B8E-4181-BF75-FB1CB8D5233B}.Release|x86.ActiveCfg = Release|Win32
 		{9C17F316-2B8E-4181-BF75-FB1CB8D5233B}.Release|x86.Build.0 = Release|Win32
+		{972D0D4B-37F1-4DE3-AC97-9340349D46C8}.Debug|x64.ActiveCfg = Debug|x64
+		{972D0D4B-37F1-4DE3-AC97-9340349D46C8}.Debug|x64.Build.0 = Debug|x64
+		{972D0D4B-37F1-4DE3-AC97-9340349D46C8}.Debug|x86.ActiveCfg = Debug|Win32
+		{972D0D4B-37F1-4DE3-AC97-9340349D46C8}.Debug|x86.Build.0 = Debug|Win32
+		{972D0D4B-37F1-4DE3-AC97-9340349D46C8}.Release|x64.ActiveCfg = Release|x64
+		{972D0D4B-37F1-4DE3-AC97-9340349D46C8}.Release|x64.Build.0 = Release|x64
+		{972D0D4B-37F1-4DE3-AC97-9340349D46C8}.Release|x86.ActiveCfg = Release|Win32
+		{972D0D4B-37F1-4DE3-AC97-9340349D46C8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

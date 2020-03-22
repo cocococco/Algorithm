@@ -143,8 +143,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="9095 baekjoon(bottom-up).cpp" />
     <ClCompile Include="9095 bottom-up.cpp" />
     <ClCompile Include="9095 top-down.cpp" />
+    <ClCompile Include="9095.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -11,7 +11,7 @@ using namespace std;
 vector<int> a[20001];
 int color[20001];
 
-void dfs(int node, int c)
+void bfs(int node, int c)
 {
 	color[node] = c;
 
@@ -20,7 +20,7 @@ void dfs(int node, int c)
 		int next = a[node][i]; // 현재 node에 연결된 다음 노드를 next에 저장
 		if (color[next] == 0) // 아직 방문하지 않았으면
 		{
-			dfs(next, 3 - c); // 1과 2로 구분하기 위해서 3에서 뺌. 1이었으면 다음은 2가 되고 2였으면 다음은 1이 됨
+			bfs(next, 3 - c); // 1과 2로 구분하기 위해서 3에서 뺌. 1이었으면 다음은 2가 되고 2였으면 다음은 1이 됨
 		}
 	}
 }
@@ -56,7 +56,7 @@ int main()
 		{
 			if (color[i] == 0)
 			{
-				dfs(i, 1);
+				bfs(i, 1);
 			}
 		}
 

@@ -20,6 +20,7 @@ void bfs()
 	{
 		int x = q.front().first;
 		int y = q.front().second;
+		// 단지 내 집의 개수를 셀 때에는 push를 할 때에나 pop을 할 때에나 상관은 없음
 		q.pop();
 
 		for (int i = 0; i < 4; i++)
@@ -33,6 +34,7 @@ void bfs()
 				{
 					map[nx][ny] = 0;
 					houses[cnt - 1]++;
+					// push를 할 때 방문 체크를 해줘야 함. 그렇지 않으면 다음 겹치는 위치에서 또 방문을 하게 되므로 개수를 더 세게 됨.
 					q.push(make_pair(nx, ny));
 				}
 			}

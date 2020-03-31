@@ -5,48 +5,16 @@
 
 using namespace std;
 
-int map[111][111];
-int n, m;
-queue<pair<int, int>> q;
-int check[111][111];
-int dx[] = { 1, 0, -1, 0 };
-int dy[] = { 0, -1, 0, 1 };
-int cnt = 1;
-
-void bfs(int x, int y)
-{
-	while (!q.empty())
-	{
-		int size = q.size();
-		cnt++;
-
-		for (int j = 0; j < size; j++)
-		{
-			q.pop();
-
-			for (int i = 0; i < 4; i++)
-			{
-				int nx = x + dx[i];
-				int ny = y + dy[i];
-
-				if (nx >= 0 && nx < n && ny >= 0 && ny < m)
-				{
-					if (check[nx][ny] == false)
-					{
-						if (nx == n - 1 && ny == m - 1) return;
-
-						check[nx][ny] = true;
-						q.push(make_pair(nx, ny));
-					}
-				}
-			}
-		}
-	}
-}
-
 int main()
 {
-	scanf("%d %d", &n, &m); // 높이 : n, 너비 : m
+	int map[100][100];
+	queue<pair<int, int>> q;
+	int n, m;
+	int cnt = 1;
+	int dx[] = { 1, 0, -1, 0 };
+	int dy[] = { 0, -1, 0, 1 };
+
+	scanf("%d %d", &n, &m); // n : 높이, m : 너비
 
 	for (int i = 0; i < n; i++)
 	{
@@ -56,19 +24,40 @@ int main()
 		}
 	}
 
-	for (int i = 0; i < n; i++)
+	q.push(make_pair(0, 0));
+
+	while (!q.empty())
 	{
-		for (int j = 0; j < m; j++)
+		int size = q.size();
+		cnt++;
+
+		for (int i = 0; i < size; i++)
 		{
-			if (check[i][j] == false)
+			int x = q.front().first;
+			int y = q.front().second;
+
+			q.pop();
+
+			for (int k = 0; k < 4; k++)
 			{
-				check[i][j] = true;
-				q.push(make_pair(i, j));
-				bfs(i, j);
+				int nx = x + dx[k];
+				int ny = y + dy[k];
+
+				if (nx == n - 1 && ny == m - 1)
+				{
+					printf("%d\n", cnt);
+					return 0;
+				}
+
+				if (!(nx == 0 && ny == 0) && nx >= 0 && nx < n && ny >= 0 && ny < m && map[nx][ny] == 1)
+				{
+					map[nx][ny] = cnt;
+					q.push(make_pair(nx, ny));
+				}
 			}
 		}
 	}
-	printf("%d\n", cnt);
+	printf("%d\n", map[n - 1][m - 1]);
 
 	return 0;
 }

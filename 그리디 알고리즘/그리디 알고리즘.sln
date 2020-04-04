@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11047 동전 0", "그리디
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1931 회의실 배정", "1931 회의실 배정\1931 회의실 배정.vcxproj", "{3A66BD55-B79A-4E16-9BD5-6F1DB22275CA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11399 ATM", "11399 ATM\11399 ATM.vcxproj", "{9ED8942E-4C54-494E-B4D8-E9CA544F177A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{3A66BD55-B79A-4E16-9BD5-6F1DB22275CA}.Release|x64.Build.0 = Release|x64
 		{3A66BD55-B79A-4E16-9BD5-6F1DB22275CA}.Release|x86.ActiveCfg = Release|Win32
 		{3A66BD55-B79A-4E16-9BD5-6F1DB22275CA}.Release|x86.Build.0 = Release|Win32
+		{9ED8942E-4C54-494E-B4D8-E9CA544F177A}.Debug|x64.ActiveCfg = Debug|x64
+		{9ED8942E-4C54-494E-B4D8-E9CA544F177A}.Debug|x64.Build.0 = Debug|x64
+		{9ED8942E-4C54-494E-B4D8-E9CA544F177A}.Debug|x86.ActiveCfg = Debug|Win32
+		{9ED8942E-4C54-494E-B4D8-E9CA544F177A}.Debug|x86.Build.0 = Debug|Win32
+		{9ED8942E-4C54-494E-B4D8-E9CA544F177A}.Release|x64.ActiveCfg = Release|x64
+		{9ED8942E-4C54-494E-B4D8-E9CA544F177A}.Release|x64.Build.0 = Release|x64
+		{9ED8942E-4C54-494E-B4D8-E9CA544F177A}.Release|x86.ActiveCfg = Release|Win32
+		{9ED8942E-4C54-494E-B4D8-E9CA544F177A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

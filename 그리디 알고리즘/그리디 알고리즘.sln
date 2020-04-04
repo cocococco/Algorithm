@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1931 회의실 배정", "19
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11399 ATM", "11399 ATM\11399 ATM.vcxproj", "{9ED8942E-4C54-494E-B4D8-E9CA544F177A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1080 행렬", "1080 행렬\1080 행렬.vcxproj", "{2C220716-6CD9-4165-8633-96E5000B943E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{9ED8942E-4C54-494E-B4D8-E9CA544F177A}.Release|x64.Build.0 = Release|x64
 		{9ED8942E-4C54-494E-B4D8-E9CA544F177A}.Release|x86.ActiveCfg = Release|Win32
 		{9ED8942E-4C54-494E-B4D8-E9CA544F177A}.Release|x86.Build.0 = Release|Win32
+		{2C220716-6CD9-4165-8633-96E5000B943E}.Debug|x64.ActiveCfg = Debug|x64
+		{2C220716-6CD9-4165-8633-96E5000B943E}.Debug|x64.Build.0 = Debug|x64
+		{2C220716-6CD9-4165-8633-96E5000B943E}.Debug|x86.ActiveCfg = Debug|Win32
+		{2C220716-6CD9-4165-8633-96E5000B943E}.Debug|x86.Build.0 = Debug|Win32
+		{2C220716-6CD9-4165-8633-96E5000B943E}.Release|x64.ActiveCfg = Release|x64
+		{2C220716-6CD9-4165-8633-96E5000B943E}.Release|x64.Build.0 = Release|x64
+		{2C220716-6CD9-4165-8633-96E5000B943E}.Release|x86.ActiveCfg = Release|Win32
+		{2C220716-6CD9-4165-8633-96E5000B943E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

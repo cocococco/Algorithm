@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "그리디 알고리즘", "그리디 알고리즘\그리디 알고리즘.vcxproj", "{F6C42523-5AFF-48AA-9003-D976D452DEC8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11047 동전 0", "그리디 알고리즘\그리디 알고리즘.vcxproj", "{F6C42523-5AFF-48AA-9003-D976D452DEC8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1931 회의실 배정", "1931 회의실 배정\1931 회의실 배정.vcxproj", "{3A66BD55-B79A-4E16-9BD5-6F1DB22275CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{F6C42523-5AFF-48AA-9003-D976D452DEC8}.Release|x64.Build.0 = Release|x64
 		{F6C42523-5AFF-48AA-9003-D976D452DEC8}.Release|x86.ActiveCfg = Release|Win32
 		{F6C42523-5AFF-48AA-9003-D976D452DEC8}.Release|x86.Build.0 = Release|Win32
+		{3A66BD55-B79A-4E16-9BD5-6F1DB22275CA}.Debug|x64.ActiveCfg = Debug|x64
+		{3A66BD55-B79A-4E16-9BD5-6F1DB22275CA}.Debug|x64.Build.0 = Debug|x64
+		{3A66BD55-B79A-4E16-9BD5-6F1DB22275CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A66BD55-B79A-4E16-9BD5-6F1DB22275CA}.Debug|x86.Build.0 = Debug|Win32
+		{3A66BD55-B79A-4E16-9BD5-6F1DB22275CA}.Release|x64.ActiveCfg = Release|x64
+		{3A66BD55-B79A-4E16-9BD5-6F1DB22275CA}.Release|x64.Build.0 = Release|x64
+		{3A66BD55-B79A-4E16-9BD5-6F1DB22275CA}.Release|x86.ActiveCfg = Release|Win32
+		{3A66BD55-B79A-4E16-9BD5-6F1DB22275CA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

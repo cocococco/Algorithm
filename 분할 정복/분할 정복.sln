@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "분할 정복", "분할 정복\분할 정복.vcxproj", "{9FCFADAF-A165-416B-A1E6-F2B0BF300FBB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10815 숫자 카드", "분할 정복\분할 정복.vcxproj", "{9FCFADAF-A165-416B-A1E6-F2B0BF300FBB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10816 숫자 카드 2", "10816 숫자 카드 2\10816 숫자 카드 2.vcxproj", "{7FD6C2EB-B7DE-4828-85F8-9926A9CBEFEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{9FCFADAF-A165-416B-A1E6-F2B0BF300FBB}.Release|x64.Build.0 = Release|x64
 		{9FCFADAF-A165-416B-A1E6-F2B0BF300FBB}.Release|x86.ActiveCfg = Release|Win32
 		{9FCFADAF-A165-416B-A1E6-F2B0BF300FBB}.Release|x86.Build.0 = Release|Win32
+		{7FD6C2EB-B7DE-4828-85F8-9926A9CBEFEA}.Debug|x64.ActiveCfg = Debug|x64
+		{7FD6C2EB-B7DE-4828-85F8-9926A9CBEFEA}.Debug|x64.Build.0 = Debug|x64
+		{7FD6C2EB-B7DE-4828-85F8-9926A9CBEFEA}.Debug|x86.ActiveCfg = Debug|Win32
+		{7FD6C2EB-B7DE-4828-85F8-9926A9CBEFEA}.Debug|x86.Build.0 = Debug|Win32
+		{7FD6C2EB-B7DE-4828-85F8-9926A9CBEFEA}.Release|x64.ActiveCfg = Release|x64
+		{7FD6C2EB-B7DE-4828-85F8-9926A9CBEFEA}.Release|x64.Build.0 = Release|x64
+		{7FD6C2EB-B7DE-4828-85F8-9926A9CBEFEA}.Release|x86.ActiveCfg = Release|Win32
+		{7FD6C2EB-B7DE-4828-85F8-9926A9CBEFEA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

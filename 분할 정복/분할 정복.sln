@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11728 배열 합치기", "1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1780 종이의 개수", "1780 종이의 개수\1780 종이의 개수.vcxproj", "{D402179E-2FDC-4E4D-8F56-0E2D07409C77}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11729 하노이 탑 이동 순서", "11729 하노이 탑 이동 순서\11729 하노이 탑 이동 순서.vcxproj", "{552E99C0-FE83-4430-AFD8-15340DF9B537}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{D402179E-2FDC-4E4D-8F56-0E2D07409C77}.Release|x64.Build.0 = Release|x64
 		{D402179E-2FDC-4E4D-8F56-0E2D07409C77}.Release|x86.ActiveCfg = Release|Win32
 		{D402179E-2FDC-4E4D-8F56-0E2D07409C77}.Release|x86.Build.0 = Release|Win32
+		{552E99C0-FE83-4430-AFD8-15340DF9B537}.Debug|x64.ActiveCfg = Debug|x64
+		{552E99C0-FE83-4430-AFD8-15340DF9B537}.Debug|x64.Build.0 = Debug|x64
+		{552E99C0-FE83-4430-AFD8-15340DF9B537}.Debug|x86.ActiveCfg = Debug|Win32
+		{552E99C0-FE83-4430-AFD8-15340DF9B537}.Debug|x86.Build.0 = Debug|Win32
+		{552E99C0-FE83-4430-AFD8-15340DF9B537}.Release|x64.ActiveCfg = Release|x64
+		{552E99C0-FE83-4430-AFD8-15340DF9B537}.Release|x64.Build.0 = Release|x64
+		{552E99C0-FE83-4430-AFD8-15340DF9B537}.Release|x86.ActiveCfg = Release|Win32
+		{552E99C0-FE83-4430-AFD8-15340DF9B537}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

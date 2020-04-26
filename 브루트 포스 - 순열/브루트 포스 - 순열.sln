@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10971 외판원 순회 2 TS
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6603 로또", "6603 로또\6603 로또.vcxproj", "{33E341D6-F4C6-4826-8C38-E360809C0ADC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14888 연산자 끼워넣기", "14888 연산자 끼워넣기\14888 연산자 끼워넣기.vcxproj", "{8468F6BF-54B5-4638-BA12-AAF743B2C9FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{33E341D6-F4C6-4826-8C38-E360809C0ADC}.Release|x64.Build.0 = Release|x64
 		{33E341D6-F4C6-4826-8C38-E360809C0ADC}.Release|x86.ActiveCfg = Release|Win32
 		{33E341D6-F4C6-4826-8C38-E360809C0ADC}.Release|x86.Build.0 = Release|Win32
+		{8468F6BF-54B5-4638-BA12-AAF743B2C9FA}.Debug|x64.ActiveCfg = Debug|x64
+		{8468F6BF-54B5-4638-BA12-AAF743B2C9FA}.Debug|x64.Build.0 = Debug|x64
+		{8468F6BF-54B5-4638-BA12-AAF743B2C9FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{8468F6BF-54B5-4638-BA12-AAF743B2C9FA}.Debug|x86.Build.0 = Debug|Win32
+		{8468F6BF-54B5-4638-BA12-AAF743B2C9FA}.Release|x64.ActiveCfg = Release|x64
+		{8468F6BF-54B5-4638-BA12-AAF743B2C9FA}.Release|x64.Build.0 = Release|x64
+		{8468F6BF-54B5-4638-BA12-AAF743B2C9FA}.Release|x86.ActiveCfg = Release|Win32
+		{8468F6BF-54B5-4638-BA12-AAF743B2C9FA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

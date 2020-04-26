@@ -11,7 +11,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10973 이전 순열", "1097
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10819 차이를 최대로", "10819 차이를 최대로\10819 차이를 최대로.vcxproj", "{2B09AE0F-94D9-4F69-9929-D966F1A0E464}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10971 외판원 순회 2", "10971 외판원 순회 2\10971 외판원 순회 2.vcxproj", "{74D73902-5855-4A6C-BA9D-5E855C9FEAA6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10971 외판원 순회 2 TSP(Traveling Salesman Problem)", "10971 외판원 순회 2\10971 외판원 순회 2.vcxproj", "{74D73902-5855-4A6C-BA9D-5E855C9FEAA6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6603 로또", "6603 로또\6603 로또.vcxproj", "{33E341D6-F4C6-4826-8C38-E360809C0ADC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{74D73902-5855-4A6C-BA9D-5E855C9FEAA6}.Release|x64.Build.0 = Release|x64
 		{74D73902-5855-4A6C-BA9D-5E855C9FEAA6}.Release|x86.ActiveCfg = Release|Win32
 		{74D73902-5855-4A6C-BA9D-5E855C9FEAA6}.Release|x86.Build.0 = Release|Win32
+		{33E341D6-F4C6-4826-8C38-E360809C0ADC}.Debug|x64.ActiveCfg = Debug|x64
+		{33E341D6-F4C6-4826-8C38-E360809C0ADC}.Debug|x64.Build.0 = Debug|x64
+		{33E341D6-F4C6-4826-8C38-E360809C0ADC}.Debug|x86.ActiveCfg = Debug|Win32
+		{33E341D6-F4C6-4826-8C38-E360809C0ADC}.Debug|x86.Build.0 = Debug|Win32
+		{33E341D6-F4C6-4826-8C38-E360809C0ADC}.Release|x64.ActiveCfg = Release|x64
+		{33E341D6-F4C6-4826-8C38-E360809C0ADC}.Release|x64.Build.0 = Release|x64
+		{33E341D6-F4C6-4826-8C38-E360809C0ADC}.Release|x86.ActiveCfg = Release|Win32
+		{33E341D6-F4C6-4826-8C38-E360809C0ADC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

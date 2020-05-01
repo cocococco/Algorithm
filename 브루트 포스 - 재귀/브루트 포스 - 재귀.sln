@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6603 로또", "6603 로또\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1182 부분수열의 합", "1182 부분수열의 합\1182 부분수열의 합.vcxproj", "{6BDABDD3-A578-4C92-9CC1-6F83EB4FA052}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14501 퇴사", "14501 퇴사\14501 퇴사.vcxproj", "{25101461-59F5-4606-8F8C-BD0F9904A954}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{6BDABDD3-A578-4C92-9CC1-6F83EB4FA052}.Release|x64.Build.0 = Release|x64
 		{6BDABDD3-A578-4C92-9CC1-6F83EB4FA052}.Release|x86.ActiveCfg = Release|Win32
 		{6BDABDD3-A578-4C92-9CC1-6F83EB4FA052}.Release|x86.Build.0 = Release|Win32
+		{25101461-59F5-4606-8F8C-BD0F9904A954}.Debug|x64.ActiveCfg = Debug|x64
+		{25101461-59F5-4606-8F8C-BD0F9904A954}.Debug|x64.Build.0 = Debug|x64
+		{25101461-59F5-4606-8F8C-BD0F9904A954}.Debug|x86.ActiveCfg = Debug|Win32
+		{25101461-59F5-4606-8F8C-BD0F9904A954}.Debug|x86.Build.0 = Debug|Win32
+		{25101461-59F5-4606-8F8C-BD0F9904A954}.Release|x64.ActiveCfg = Release|x64
+		{25101461-59F5-4606-8F8C-BD0F9904A954}.Release|x64.Build.0 = Release|x64
+		{25101461-59F5-4606-8F8C-BD0F9904A954}.Release|x86.ActiveCfg = Release|Win32
+		{25101461-59F5-4606-8F8C-BD0F9904A954}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

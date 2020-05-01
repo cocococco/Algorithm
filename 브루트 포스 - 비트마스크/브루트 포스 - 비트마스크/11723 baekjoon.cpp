@@ -29,7 +29,7 @@ int main()
 		{
 			scanf("%d", &x);
 			x--;
-			s = (s& ~(1 << x));
+			s = (s & ~(1 << x));
 		}
 		else if (!strcmp(b, "check"))
 		{
@@ -37,14 +37,8 @@ int main()
 			x--;
 			int res = (s & (1 << x));
 
-			if (res)
-			{
-				puts("1");
-			}
-			else
-			{
-				puts("0");
-			}
+			if (res) puts("1");
+			else puts("0");
 		}
 		else if (!strcmp(b, "toggle"))
 		{

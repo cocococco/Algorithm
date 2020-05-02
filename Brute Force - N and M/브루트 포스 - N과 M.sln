@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15651 N과 M 3", "15651 N�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15652 N과 M 4", "15652 N과 M 4\15652 N과 M 4.vcxproj", "{6847D55C-692B-45AD-A070-63FE91E9702C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15654 N과 M 5", "15654 N과 M 5\15654 N과 M 5.vcxproj", "{E6D0ECD3-F7FD-4200-BD9E-D17ACF8DEAAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{6847D55C-692B-45AD-A070-63FE91E9702C}.Release|x64.Build.0 = Release|x64
 		{6847D55C-692B-45AD-A070-63FE91E9702C}.Release|x86.ActiveCfg = Release|Win32
 		{6847D55C-692B-45AD-A070-63FE91E9702C}.Release|x86.Build.0 = Release|Win32
+		{E6D0ECD3-F7FD-4200-BD9E-D17ACF8DEAAE}.Debug|x64.ActiveCfg = Debug|x64
+		{E6D0ECD3-F7FD-4200-BD9E-D17ACF8DEAAE}.Debug|x64.Build.0 = Debug|x64
+		{E6D0ECD3-F7FD-4200-BD9E-D17ACF8DEAAE}.Debug|x86.ActiveCfg = Debug|Win32
+		{E6D0ECD3-F7FD-4200-BD9E-D17ACF8DEAAE}.Debug|x86.Build.0 = Debug|Win32
+		{E6D0ECD3-F7FD-4200-BD9E-D17ACF8DEAAE}.Release|x64.ActiveCfg = Release|x64
+		{E6D0ECD3-F7FD-4200-BD9E-D17ACF8DEAAE}.Release|x64.Build.0 = Release|x64
+		{E6D0ECD3-F7FD-4200-BD9E-D17ACF8DEAAE}.Release|x86.ActiveCfg = Release|Win32
+		{E6D0ECD3-F7FD-4200-BD9E-D17ACF8DEAAE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

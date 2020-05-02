@@ -1,3 +1,6 @@
+/*
+1부터 N까지 자연수 중에서 M개를 고른 수열 (중복 가능)
+*/
 #include <iostream>
 
 using namespace std;

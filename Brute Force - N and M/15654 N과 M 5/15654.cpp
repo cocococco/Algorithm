@@ -8,7 +8,7 @@ using namespace std;
 
 int a[10];
 int c[10];
-int p[10];
+int num[10];
 
 void go(int index, int n, int m)
 {
@@ -26,7 +26,7 @@ void go(int index, int n, int m)
 	{
 		if (c[i]) continue;
 		c[i] = true;
-		a[index] = p[i];
+		a[index] = num[i];
 		go(index + 1, n, m);
 		c[i] = false;
 	}
@@ -38,9 +38,9 @@ int main()
 	cin >> n >> m;
 	for (int i = 0; i < n; i++)
 	{
-		cin >> p[i];
+		cin >> num[i];
 	}
-	sort(p, p + n);
+	sort(num, num + n);
 
 	go(0, n, m);
 

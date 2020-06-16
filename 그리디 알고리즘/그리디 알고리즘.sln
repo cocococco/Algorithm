@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2109 순회강연", "2109 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1783 병든 나이트", "1783 병든 나이트\1783 병든 나이트.vcxproj", "{81F170D5-5587-40DF-A798-958884B112FE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10610 30", "10610 30\10610 30.vcxproj", "{B9B0883F-EFA9-4BD0-9060-2878AFE60BC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{81F170D5-5587-40DF-A798-958884B112FE}.Release|x64.Build.0 = Release|x64
 		{81F170D5-5587-40DF-A798-958884B112FE}.Release|x86.ActiveCfg = Release|Win32
 		{81F170D5-5587-40DF-A798-958884B112FE}.Release|x86.Build.0 = Release|Win32
+		{B9B0883F-EFA9-4BD0-9060-2878AFE60BC6}.Debug|x64.ActiveCfg = Debug|x64
+		{B9B0883F-EFA9-4BD0-9060-2878AFE60BC6}.Debug|x64.Build.0 = Debug|x64
+		{B9B0883F-EFA9-4BD0-9060-2878AFE60BC6}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9B0883F-EFA9-4BD0-9060-2878AFE60BC6}.Debug|x86.Build.0 = Debug|Win32
+		{B9B0883F-EFA9-4BD0-9060-2878AFE60BC6}.Release|x64.ActiveCfg = Release|x64
+		{B9B0883F-EFA9-4BD0-9060-2878AFE60BC6}.Release|x64.Build.0 = Release|x64
+		{B9B0883F-EFA9-4BD0-9060-2878AFE60BC6}.Release|x86.ActiveCfg = Release|Win32
+		{B9B0883F-EFA9-4BD0-9060-2878AFE60BC6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

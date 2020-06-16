@@ -22,10 +22,11 @@ int main()
 	int n, m; // 수빈이 위치, 동생 위치
 	cin >> n >> m;
 
+	queue<int> q;
+
+	q.push(n);
 	check[n] = true; // 초기값
 	dist[n] = 0;
-	queue<int> q;
-	q.push(n);
 
 	while (!q.empty())
 	{

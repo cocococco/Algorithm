@@ -31,10 +31,11 @@ int main()
 	int n, m;
 	cin >> n >> m;
 
+	queue<int> q;
+
+	q.push(n);
 	check[n] = true;
 	dist[n] = 0;
-	queue<int> q;
-	q.push(n);
 
 	while (!q.empty())
 	{

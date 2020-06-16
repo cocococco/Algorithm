@@ -13,10 +13,12 @@ struct Meeting
 
 bool cmp(const Meeting &u, const Meeting &v)
 {
+	// 끝나는 시간이 같을 경우 일찍 시작하는거
 	if (u.end == v.end)
 	{
 		return u.begin < v.begin;
 	}
+	// 다를 경우 일찍 끝나는거
 	else
 	{
 		return u.end < v.end;

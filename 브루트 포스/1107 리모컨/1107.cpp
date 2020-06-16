@@ -19,11 +19,11 @@ int possible(int c)
 	}
 
 	// 10으로 나누면서 숫자를 한자리씩 떼어 확인함
-	// len으로 몇 자리수인지 저장함
+	// len으로 몇 자리수인지 저장함. 누르는 횟수임
 	int len = 0;
 	while (c > 0)
 	{
-		if (broken[c % 10])
+		if (broken[c % 10]) // 1의 자리, 10의 자리,...
 		{
 			return 0;
 		}

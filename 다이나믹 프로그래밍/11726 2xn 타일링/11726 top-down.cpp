@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int d[1001];
+int d[1001]; // memo
 
 int dp(int n)
 {
